@@ -1,4 +1,10 @@
-/* C Program to Remove Last Occurrence of a Character in a String */
+/* C Program to Remove Last Occurrence of a Character in a String
+
+Enter String :shihab khan DhAKA
+Enter Character to Remove Last Occurrence: a
+after Removing Last occurrence of 'a' = shihab khn DhAKA
+
+*/
 #include<stdio.h>
 #include<string.h>
 int main()
